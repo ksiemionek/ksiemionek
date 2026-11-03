@@ -34,6 +34,12 @@ Final-year Computer Science student at Warsaw University of Technology, speciali
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+**Operating Systems**
+ 
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 ## Featured Projects
 
 - **[RAG Pipeline Evaluation on SQuAD](https://github.com/ksiemionek/rag-pipeline-eval)** - compared no-RAG, sparse, dense and reranked retrieval on 10k questions, evaluated with Recall@k, MAP@k, ROUGE and chrF.
